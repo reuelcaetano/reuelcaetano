@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Reuel Caetano.
-- 👀 I’m interested in Web Technologies, Game, Python, Django, Flask.
+- 👀 I’m interested in Web Technologies, Games, Python, Django, Flask.
 - 🌱 I’m currently learning Django and Flask.
 - 📫 How to reach me: instagram @reuelcaetano.
