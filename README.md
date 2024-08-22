@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Reuel Caetano.
 - 👀 I’m interested in Web Technologies, Games and UI/UX.
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Next.js and Go lang.
 - 📫 How to reach me: instagram @reuelcaetano.
